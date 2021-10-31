@@ -7,25 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		7881C6262725A99800F4DE19 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7881C6252725A99800F4DE19 /* AppDelegate.swift */; };
-		7881C6282725A99800F4DE19 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7881C6272725A99800F4DE19 /* SceneDelegate.swift */; };
-		7881C62A2725A99800F4DE19 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7881C6292725A99800F4DE19 /* ViewController.swift */; };
-		7881C62D2725A99800F4DE19 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7881C62B2725A99800F4DE19 /* Main.storyboard */; };
-		7881C62F2725A99900F4DE19 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7881C62E2725A99900F4DE19 /* Assets.xcassets */; };
+		787A40EA2727F8D600D18138 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 787A40E92727F8D600D18138 /* AppDelegate.swift */; };
+		787A40EC2727F8D600D18138 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 787A40EB2727F8D600D18138 /* SceneDelegate.swift */; };
+		787A40EE2727F8D600D18138 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 787A40ED2727F8D600D18138 /* ViewController.swift */; };
+		787A40F12727F8D600D18138 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 787A40EF2727F8D600D18138 /* Main.storyboard */; };
+		787A40F32727F8D700D18138 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 787A40F22727F8D700D18138 /* Assets.xcassets */; };
+		787A40F62727F8D700D18138 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 787A40F42727F8D700D18138 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		7881C6222725A99800F4DE19 /* HW 2.2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "HW 2.2.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		7881C6252725A99800F4DE19 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		7881C6272725A99800F4DE19 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		7881C6292725A99800F4DE19 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		7881C62C2725A99800F4DE19 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		7881C62E2725A99900F4DE19 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		7881C6332725A99900F4DE19 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		787A40E62727F8D600D18138 /* Color changer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Color changer.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		787A40E92727F8D600D18138 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		787A40EB2727F8D600D18138 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		787A40ED2727F8D600D18138 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		787A40F02727F8D600D18138 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		787A40F22727F8D700D18138 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		787A40F52727F8D700D18138 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		787A40F72727F8D700D18138 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		7881C61F2725A99800F4DE19 /* Frameworks */ = {
+		787A40E32727F8D600D18138 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -35,70 +37,71 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		7881C6192725A99800F4DE19 = {
+		787A40DD2727F8D600D18138 = {
 			isa = PBXGroup;
 			children = (
-				7881C6242725A99800F4DE19 /* HW 2.2 */,
-				7881C6232725A99800F4DE19 /* Products */,
+				787A40E82727F8D600D18138 /* Color changer */,
+				787A40E72727F8D600D18138 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		7881C6232725A99800F4DE19 /* Products */ = {
+		787A40E72727F8D600D18138 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				7881C6222725A99800F4DE19 /* HW 2.2.app */,
+				787A40E62727F8D600D18138 /* Color changer.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		7881C6242725A99800F4DE19 /* HW 2.2 */ = {
+		787A40E82727F8D600D18138 /* Color changer */ = {
 			isa = PBXGroup;
 			children = (
-				7881C6252725A99800F4DE19 /* AppDelegate.swift */,
-				7881C6272725A99800F4DE19 /* SceneDelegate.swift */,
-				7881C6292725A99800F4DE19 /* ViewController.swift */,
-				7881C62B2725A99800F4DE19 /* Main.storyboard */,
-				7881C62E2725A99900F4DE19 /* Assets.xcassets */,
-				7881C6332725A99900F4DE19 /* Info.plist */,
+				787A40E92727F8D600D18138 /* AppDelegate.swift */,
+				787A40EB2727F8D600D18138 /* SceneDelegate.swift */,
+				787A40ED2727F8D600D18138 /* ViewController.swift */,
+				787A40EF2727F8D600D18138 /* Main.storyboard */,
+				787A40F22727F8D700D18138 /* Assets.xcassets */,
+				787A40F42727F8D700D18138 /* LaunchScreen.storyboard */,
+				787A40F72727F8D700D18138 /* Info.plist */,
 			);
-			path = "HW 2.2";
+			path = "Color changer";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		7881C6212725A99800F4DE19 /* HW 2.2 */ = {
+		787A40E52727F8D600D18138 /* Color changer */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 7881C6362725A99900F4DE19 /* Build configuration list for PBXNativeTarget "HW 2.2" */;
+			buildConfigurationList = 787A40FA2727F8D700D18138 /* Build configuration list for PBXNativeTarget "Color changer" */;
 			buildPhases = (
-				7881C61E2725A99800F4DE19 /* Sources */,
-				7881C61F2725A99800F4DE19 /* Frameworks */,
-				7881C6202725A99800F4DE19 /* Resources */,
+				787A40E22727F8D600D18138 /* Sources */,
+				787A40E32727F8D600D18138 /* Frameworks */,
+				787A40E42727F8D600D18138 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "HW 2.2";
-			productName = "HW 2.2";
-			productReference = 7881C6222725A99800F4DE19 /* HW 2.2.app */;
+			name = "Color changer";
+			productName = "Color changer";
+			productReference = 787A40E62727F8D600D18138 /* Color changer.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		7881C61A2725A99800F4DE19 /* Project object */ = {
+		787A40DE2727F8D600D18138 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1250;
 				LastUpgradeCheck = 1250;
 				TargetAttributes = {
-					7881C6212725A99800F4DE19 = {
+					787A40E52727F8D600D18138 = {
 						CreatedOnToolsVersion = 12.5.1;
 					};
 				};
 			};
-			buildConfigurationList = 7881C61D2725A99800F4DE19 /* Build configuration list for PBXProject "HW 2.2" */;
+			buildConfigurationList = 787A40E12727F8D600D18138 /* Build configuration list for PBXProject "Color changer" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -106,54 +109,63 @@
 				en,
 				Base,
 			);
-			mainGroup = 7881C6192725A99800F4DE19;
-			productRefGroup = 7881C6232725A99800F4DE19 /* Products */;
+			mainGroup = 787A40DD2727F8D600D18138;
+			productRefGroup = 787A40E72727F8D600D18138 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				7881C6212725A99800F4DE19 /* HW 2.2 */,
+				787A40E52727F8D600D18138 /* Color changer */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		7881C6202725A99800F4DE19 /* Resources */ = {
+		787A40E42727F8D600D18138 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7881C62F2725A99900F4DE19 /* Assets.xcassets in Resources */,
-				7881C62D2725A99800F4DE19 /* Main.storyboard in Resources */,
+				787A40F62727F8D700D18138 /* LaunchScreen.storyboard in Resources */,
+				787A40F32727F8D700D18138 /* Assets.xcassets in Resources */,
+				787A40F12727F8D600D18138 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		7881C61E2725A99800F4DE19 /* Sources */ = {
+		787A40E22727F8D600D18138 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7881C62A2725A99800F4DE19 /* ViewController.swift in Sources */,
-				7881C6262725A99800F4DE19 /* AppDelegate.swift in Sources */,
-				7881C6282725A99800F4DE19 /* SceneDelegate.swift in Sources */,
+				787A40EE2727F8D600D18138 /* ViewController.swift in Sources */,
+				787A40EA2727F8D600D18138 /* AppDelegate.swift in Sources */,
+				787A40EC2727F8D600D18138 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		7881C62B2725A99800F4DE19 /* Main.storyboard */ = {
+		787A40EF2727F8D600D18138 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				7881C62C2725A99800F4DE19 /* Base */,
+				787A40F02727F8D600D18138 /* Base */,
 			);
 			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		787A40F42727F8D700D18138 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				787A40F52727F8D700D18138 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		7881C6342725A99900F4DE19 /* Debug */ = {
+		787A40F82727F8D700D18138 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -214,7 +226,7 @@
 			};
 			name = Debug;
 		};
-		7881C6352725A99900F4DE19 /* Release */ = {
+		787A40F92727F8D700D18138 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -269,38 +281,38 @@
 			};
 			name = Release;
 		};
-		7881C6372725A99900F4DE19 /* Debug */ = {
+		787A40FB2727F8D700D18138 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 7SXSHNB563;
-				INFOPLIST_FILE = "HW 2.2/Info.plist";
+				INFOPLIST_FILE = "Color changer/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "Me.HW-2-2";
+				PRODUCT_BUNDLE_IDENTIFIER = "Me.Color-changer";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
-		7881C6382725A99900F4DE19 /* Release */ = {
+		787A40FC2727F8D700D18138 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 7SXSHNB563;
-				INFOPLIST_FILE = "HW 2.2/Info.plist";
+				INFOPLIST_FILE = "Color changer/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "Me.HW-2-2";
+				PRODUCT_BUNDLE_IDENTIFIER = "Me.Color-changer";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
@@ -310,25 +322,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		7881C61D2725A99800F4DE19 /* Build configuration list for PBXProject "HW 2.2" */ = {
+		787A40E12727F8D600D18138 /* Build configuration list for PBXProject "Color changer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				7881C6342725A99900F4DE19 /* Debug */,
-				7881C6352725A99900F4DE19 /* Release */,
+				787A40F82727F8D700D18138 /* Debug */,
+				787A40F92727F8D700D18138 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		7881C6362725A99900F4DE19 /* Build configuration list for PBXNativeTarget "HW 2.2" */ = {
+		787A40FA2727F8D700D18138 /* Build configuration list for PBXNativeTarget "Color changer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				7881C6372725A99900F4DE19 /* Debug */,
-				7881C6382725A99900F4DE19 /* Release */,
+				787A40FB2727F8D700D18138 /* Debug */,
+				787A40FC2727F8D700D18138 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 7881C61A2725A99800F4DE19 /* Project object */;
+	rootObject = 787A40DE2727F8D600D18138 /* Project object */;
 }

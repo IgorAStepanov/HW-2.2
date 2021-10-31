@@ -143,16 +143,11 @@
                         </constraints>
                     </view>
                     <connections>
-                        <outlet property="blueColor" destination="SCF-QH-4r3" id="AEl-ez-Tqj"/>
                         <outlet property="blueSlider" destination="Jbj-lP-XTo" id="nfW-RV-27y"/>
-                        <outlet property="blueSliderOutLet" destination="Jbj-lP-XTo" id="M3A-Mh-CRA"/>
                         <outlet property="blueSliderValue" destination="edD-Qz-d5t" id="o9K-sG-loN"/>
                         <outlet property="greenSlider" destination="VVz-TK-1C9" id="wyE-uP-c5B"/>
-                        <outlet property="greenSliderOutLet" destination="VVz-TK-1C9" id="7Kf-Wb-cRB"/>
                         <outlet property="greenSliderValue" destination="xpl-xT-mbN" id="7dy-QA-Qw4"/>
-                        <outlet property="redColor" destination="vbO-Aa-dkX" id="fqF-PK-dzk"/>
                         <outlet property="redSlider" destination="9Xu-fN-dLt" id="AZo-mk-SEC"/>
-                        <outlet property="redSliderOutLet" destination="9Xu-fN-dLt" id="fqA-X4-04t"/>
                         <outlet property="redSliderValue" destination="MB3-Cg-dwI" id="haS-2P-l6S"/>
                     </connections>
                 </viewController>
